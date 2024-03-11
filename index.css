@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+.bg {
+    height: 500px;
+    background-image: url('../assets/story.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+}
